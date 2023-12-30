@@ -212,6 +212,19 @@ end
 
 endmodule
 
+### TRUTH TABLE FOR FLIP FLOPS
+#### SR Flipflop
+![Screenshot 2023-12-21 185537](https://github.com/anandarakshan/Experiment--05-Implementation-of-flipflops-using-verilog/assets/139217934/f884340b-31ce-4dc0-a544-56f79cc13bb3)
+
+#### JK Flipflop
+![Screenshot 2023-12-21 185926](https://github.com/anandarakshan/Experiment--05-Implementation-of-flipflops-using-verilog/assets/139217934/9a352452-5644-448d-8f48-ee9c4f6844b3)
+
+#### D Flipflop
+![D_flipflop-Truth Table](https://github.com/anandarakshan/Experiment--05-Implementation-of-flipflops-using-verilog/assets/139217934/3513409e-3963-4bc6-ba58-804a78ff8898)
+
+#### T Flipflop
+![T_flipflop-Truth Table](https://github.com/anandarakshan/Experiment--05-Implementation-of-flipflops-using-verilog/assets/139217934/e07830ce-c60e-42d6-b391-0eb14cafdee4)
+
 ### RTL LOGIC FOR FLIPFLOPS 
 #### SR Flipflop
 
@@ -245,19 +258,6 @@ endmodule
 #### T Flipflop
 
 ![T_flipflop-Timing Diagram](https://github.com/anandarakshan/Experiment--05-Implementation-of-flipflops-using-verilog/assets/139217934/451647be-37c9-4274-bc3e-1a242802ecd2)
-
-### TRUTH TABLE FOR FLIP FLOPS
-#### SR Flipflop
-![Screenshot 2023-12-21 185537](https://github.com/anandarakshan/Experiment--05-Implementation-of-flipflops-using-verilog/assets/139217934/f884340b-31ce-4dc0-a544-56f79cc13bb3)
-
-#### JK Flipflop
-![Screenshot 2023-12-21 185926](https://github.com/anandarakshan/Experiment--05-Implementation-of-flipflops-using-verilog/assets/139217934/9a352452-5644-448d-8f48-ee9c4f6844b3)
-
-#### D Flipflop
-![D_flipflop-Truth Table](https://github.com/anandarakshan/Experiment--05-Implementation-of-flipflops-using-verilog/assets/139217934/3513409e-3963-4bc6-ba58-804a78ff8898)
-
-#### T Flipflop
-![T_flipflop-Truth Table](https://github.com/anandarakshan/Experiment--05-Implementation-of-flipflops-using-verilog/assets/139217934/e07830ce-c60e-42d6-b391-0eb14cafdee4)
 
 ### RESULTS 
 Thus, the implementation of SR,JK,D and T flipflops using nand gates are done sucessfully.
